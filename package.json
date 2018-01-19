@@ -1,0 +1,24 @@
+{
+  "name": "algorithmsUdemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch ./test || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsinecos/algorithmsUdemy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsinecos/algorithmsUdemy/issues"
+  },
+  "homepage": "https://github.com/dsinecos/algorithmsUdemy#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}
